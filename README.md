@@ -16,9 +16,9 @@ Neste curso veremos um pouco da utilização do docker para testar suas aplicaç
 
 ### Aulas
 
-* [Aula1 - Docker](https://github.com/gpd38/cursoNutrorHtmlCssJavascriptSemComplicacao/blob/main/codigo/aula1.md)
-* [Aula2 - Jenkins](https://github.com/gpd38/cursoNutrorHtmlCssJavascriptSemComplicacao/blob/main/codigo/aula2.md)
-* [Aula3 - Jenkins, Docker e testes](https://github.com/gpd38/cursoNutrorHtmlCssJavascriptSemComplicacao/blob/main/codigo/aula3.md)
+* [Aula1 - Docker](https://github.com/gpd38/cursoNutrorDevOpsParaQas/blob/main/codigo/aula1.md)
+* [Aula2 - Jenkins](https://github.com/gpd38/cursoNutrorDevOpsParaQas/blob/main/codigo/aula2.md)
+* [Aula3 - Jenkins, Docker e testes](https://github.com/gpd38/cursoNutrorDevOpsParaQas/blob/main/codigo/aula3.md)
 
 ### Autor
 
@@ -26,14 +26,14 @@ Neste curso veremos um pouco da utilização do docker para testar suas aplicaç
 	<tr>
 		<td align="center">
 			<a href="https://www.linkedin.com/in/adamviniciusqa/">
-				<img style="border-radius: 50%;" src="https://github.com/gpd38/cursoNutrorLogicaDeProgramacao/blob/master/img/adam.png" width="100px;" alt=""/>
+				<img style="border-radius: 50%;" src="https://github.com/gpd38/cursoNutrorDevOpsParaQas/blob/master/img/adam.png" width="100px;" alt=""/>
 				<br /><b>Instrutor<br>Adam Vinicius Cezar Luchini</b>
 			</a>
 			<br />
 		</td>
 		<td align="center">
 			<a href="https://www.linkedin.com/in/gustavopereiradias">
-				<img style="border-radius: 50%;" src="https://github.com/gpd38/cursoNutrorLogicaDeProgramacao/blob/master/img/gustavo.png" width="100px;" alt=""/>
+				<img style="border-radius: 50%;" src="https://github.com/gpd38/cursoNutrorDevOpsParaQas/blob/master/img/gustavo.png" width="100px;" alt=""/>
 				<br /><b>Aluno<br>Gustavo Pereira Dias</b>
 			</a>
 			<br />
