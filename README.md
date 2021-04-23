@@ -3,9 +3,9 @@
 Neste curso veremos um pouco da utilização do docker para testar suas aplicações.
 
 <p align="center">
-	<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/gpd38/cursoNutrorDevOpsParaQas">
-	<img alt="GitHub" src="https://img.shields.io/github/license/gpd38/cursoNutrorDevOpsParaQas">
-	<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/gpd38/cursoNutrorDevOpsParaQas">
+	<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/gpd38/cursoNutrorDevOpsParaQas" />
+	<img alt="GitHub" src="https://img.shields.io/github/license/gpd38/cursoNutrorDevOpsParaQas" />
+	<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/gpd38/cursoNutrorDevOpsParaQas" />
 </p>
 
 <p align="center">
