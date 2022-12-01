@@ -4,7 +4,7 @@ Iremos instalar a imagem no docker da aplicação petstore.
 
 [Link do swagger](https://petstore.swagger.io/)
 
-### Alguns Comandos
+## Alguns Comandos
 
  - Help do docker: docker --help
  - Download: docker pull swaggerapi/petstore
@@ -15,7 +15,7 @@ Iremos instalar a imagem no docker da aplicação petstore.
  - Parar execução do docker: docker stop {container id}
  - Criar container através da imagen: docker run {image}
 
-### Mão na massa
+## Mão na massa
 
  - Ex1: https://hub.docker.com/r/swaggerapi/petstore
 

@@ -12,9 +12,9 @@ Neste curso veremos um pouco da utilização do docker para testar suas aplicaç
 
 ## Aulas
 
-* [Aula1 - Docker](https://github.com/gpd38/cursoNutrorDevOpsParaQas/blob/main/codigo/aula1.md)
-* [Aula2 - Jenkins](https://github.com/gpd38/cursoNutrorDevOpsParaQas/blob/main/codigo/aula2.md)
-* [Aula3 - Jenkins, Docker e testes](https://github.com/gpd38/cursoNutrorDevOpsParaQas/blob/main/codigo/aula3.md)
+* [Aula1 - Docker](https://github.com/gpd38/cursoNutrorDevOpsParaQas/blob/main/aulas/aula1.md)
+* [Aula2 - Jenkins](https://github.com/gpd38/cursoNutrorDevOpsParaQas/blob/main/aulas/aula2.md)
+* [Aula3 - Jenkins, Docker e testes](https://github.com/gpd38/cursoNutrorDevOpsParaQas/blob/main/aulas/aula3.md)
 
 ## Instrutor e Aluno
 
